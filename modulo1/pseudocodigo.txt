@@ -1,0 +1,6 @@
+Início;
+Leia X; #entrada
+9*X = (X-1)*10 + 10-X; #processamento
+9*X = Z;
+Imprima Z; #saída
+Fim
