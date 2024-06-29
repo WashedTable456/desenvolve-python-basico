@@ -1,0 +1,3 @@
+Leia do teclado o número(X) com que se deseja fazer a multiplicação por 9 #entrada
+Faça a seguinte operação (X-1)*10 + (10-X) e armazene o resultado #saída
+Imprima na tela o resultado armazenado na etapa anterior e finalize o programa #saída
